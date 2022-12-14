@@ -9,7 +9,7 @@ It is a simple python socket-based chat application where communication establis
 To deploy this project run
 
 ```git
-    git clone https://github.com/Programmer118/PyChat
+    git clone https://github.com/Programmer118/PyChat.git
 ```
 ```python
     cd PyChat
