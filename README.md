@@ -13,7 +13,7 @@ To deploy this project run
 ```
 ```python
     cd PyChat
-    python main.p
+    python main.py
 ```
 
 ## Demo
