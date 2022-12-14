@@ -15,7 +15,11 @@ To deploy this project run
     cd PyChat
     python main.py
 ```
-
+To Run on internet
+```
+    cd ngrok-server
+    python Run-This.py
+```
 ## Demo
 
 
